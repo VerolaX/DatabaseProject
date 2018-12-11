@@ -1,0 +1,4 @@
+SELECT itemID
+FROM Item
+ORDER BY buy_price DESC
+LIMIT 1;
